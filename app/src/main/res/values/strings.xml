@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyAnimatoin</string>
+    <string name="score_start">1000</string>
+    <string name="description_button_up">button_up</string>
+    <string name="description_button_down">button_down</string>
+    <string name="description_base_of_buttons">base_of_buttons</string>
+    <string name="todo">TODO</string>
+</resources>
